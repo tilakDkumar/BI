@@ -1,0 +1,53 @@
+{
+  "type": "Topology",
+  "arcs":[
+    [
+      [
+        32.50886545,
+        116.8913612
+        ]
+     ]
+  ],
+
+    
+  "transform": {
+    "scale": [
+      0.0002794304446897648,
+      0.0002208234884480947
+    ],
+    "translate": [
+      73.55770111084013,
+      18.161529541015625
+    ]
+  },
+  "objects": {
+    "CHN_adm1": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "arcs": [
+            [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ]
+          ],
+          "type": "Polygon",
+          "properties": {
+            "ISO": "CHN",
+            "NAME_0": "China",
+            "ID_1": 1,
+            "NAME_1": "E10",
+            "TYPE_1": "Shěng",
+            "ENGTYPE_1": "Province",
+            "NL_NAME_1": "安徽|安徽",
+            "VARNAME_1": "Ānhuī"
+          }
+        }
+      ]
+    }
+  }
+}
