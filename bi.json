@@ -36,10 +36,11 @@
             "ISO": "CHN",
             "NAME_0": "China",
             "ID_1": 1,
-            "Zone": "E10",
-           
-            "ENGTYPE_1": "Zone"
-       
+            "NAME_1": "E10",
+            "TYPE_1": "Shěng",
+            "ENGTYPE_1": "Province",
+            "NL_NAME_1": "安徽|安徽",
+            "VARNAME_1": "E10"
           }
         }
       ]
